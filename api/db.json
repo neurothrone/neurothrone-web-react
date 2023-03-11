@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "id": "ios",
+      "name": "iOS Projects",
+      "projects": [
+        {
+          "id": "fast-track-ios",
+          "name": "FastTrack"
+        },
+        {
+          "id": "gasvo-ios",
+          "name": "GasVo (iOS)"
+        },
+        {
+          "id": "work-work-ios",
+          "name": "WorkWork (iOS)"
+        },
+        {
+          "id": "work-work-watchos",
+          "name": "WorkWork (watchOS)"
+        }
+      ]
+    },
+    {
+      "id": "android",
+      "name": "Android Projects",
+      "projects": [
+        {
+          "id": "gasvo-android",
+          "name": "GasVo (Android)"
+        }
+      ]
+    },
+    {
+      "id": "flutter",
+      "name": "Flutter Projects"
+    },
+    {
+      "id": "web",
+      "name": "Web Projects",
+      "projects": [
+        {
+          "id": "gasvo-web-vapor",
+          "name": "GasVo (Web, Vapor)"
+        },
+        {
+          "id": "gasvo-web-react",
+          "name": "GasVo (Web, React)"
+        }
+      ]
+    },
+    {
+      "id": "server-side-swift",
+      "name": "Server-side Swift Projects"
+    },
+    {
+      "id": "python",
+      "name": "Python Projects"
+    },
+    {
+      "id": "python",
+      "name": "Python Projects"
+    },
+    {
+      "id": "unity",
+      "name": "Unity Projects"
+    },
+    {
+      "id": "unreal-engine",
+      "name": "Unreal Engine Projects"
+    },
+    {
+      "id": "3d",
+      "name": "3D Projects"
+    }
+  ]
+}
